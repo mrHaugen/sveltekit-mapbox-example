@@ -31,6 +31,6 @@
 	</Map>
 
 	<div class="absolute top-5 ml-5 w-3/4">
-		<a class="bg-white p-2" href="/">map-example by brage@1618.no</a>
+		<a class="bg-white p-2" href="/">sveltekit-mapbox-example by brage@1618.no</a>
 	</div>
 </div>
